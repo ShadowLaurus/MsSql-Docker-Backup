@@ -1,0 +1,1 @@
+/opt/mssql-tools/bin/sqlcmd -S MSSQL_HOST -U sa -P SA_PASSWORD -i backup.sql
